@@ -1,3 +1,12 @@
+## Todo
+* [ ] Add Introductions Page
+* [ ] Add Dashboard bottomview page
+* [ ] Add Login Page using google auth
+
+## Upcoming Features
+- Integrating Unit Test.
+- Create an easy to use API provider with [GetConnect](https://github.com/jonataslaw/getx#getconnect).
+
 # flutter-getx-clean-architecture
 A Flutter Clean Architecture Using [GetX](https://github.com/jonataslaw/getx).
 
@@ -41,7 +50,3 @@ This repo is forked from: https://github.com/phamdinhduc795397/flutter-getx-clea
         |-- views
         |-- app.dart
 ```
-
-## Features
-- Integrating Unit Test.
-- Create an easy to use API provider with [GetConnect](https://github.com/jonataslaw/getx#getconnect).
